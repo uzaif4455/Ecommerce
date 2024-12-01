@@ -1,0 +1,17 @@
+		**Welcome Customer**
+
+Bill Number:1003
+Customer Name:abc
+=======================================================Product			Quantity			Price
+=======================================================
+Bath soap			02			40Rs
+Perfume			02			500Rs
+Wheat			0			105Rs
+Sprite			0			0Rs
+Thumbs up			02			80Rs
+-------------------------------------------------------
+Cosmetic tax						64.8 Rs
+Grocery tax						5.25 Rs
+Coldrink tax						0.0 Rs
+-------------------------------------------------------
+Total bill						715.05
